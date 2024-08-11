@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">suitmedia</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="retry">retry</string>
+    <string name="empty_nothing_here">Nothing here!</string>
+    <string name="title_third_screen">Third Screen</string>
+    <string name="title_second_screen">Second Screen</string>
+    <string name="second_screen_welcome">Welcome</string>
+    <string name="Second_Screen_Name">Name</string>
+    <string name="Second_Screen_Selected">Selected User Name</string>
+    <string name="Second_Screen_Choose">Choose a User</string>
+    <string name="Login_Name">Name</string>
+    <string name="Login_Palindrome">Palindrome</string>
+    <string name="Login_check">CHECK</string>
+    <string name="Login_next">NEXT</string>
+    <string name="please_input_a_text">Please input a text</string>
+    <string name="palindrome_check">Palindrome Check</string>
+    <string name="your_input_is_a_palindrome">your input is a palindrome</string>
+    <string name="your_input_is_not_a_palindrome">your input is not a palindrome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+</resources>
